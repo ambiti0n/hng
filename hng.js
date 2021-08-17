@@ -1,5 +1,5 @@
 
-// A function that prints my name using my language of choice(javascript)
+// A function that prints my name using the language of choice(javascript)
 function printName(){
        let firstName = "Johnson"
        let lastName = "Afuye"
