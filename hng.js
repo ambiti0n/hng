@@ -1,3 +1,14 @@
+
+// A function that prints my name using my language of choice(javascript)
+function printName(){
+       let firstName = "Johnson"
+       let lastName = "Afuye"
+       console.log(firstName+" "+ lastName);      
+}
+printName();
+
+
+
 const inputBtn = document.getElementById("input-btn");
 const roleEl = document.getElementById("role-el");
 const nameEl = document.getElementById("name-el");
